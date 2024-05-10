@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on design
 - 🌱 I’m currently learning front-end
-- 📫 How to reach me: expedromelo@hotmail.com
 - ⚡ Fun fact: chemical engineering course
 
 <div align="center">
